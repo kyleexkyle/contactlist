@@ -6,7 +6,7 @@
 5. `php artisan migrate`(remember to modify you .env file first before migrating)
 6. `php artisan db:seed`
 7. `npm install`
-8. `npm run dev` (compile for development) OR npm run build (compile for production)
+8. `npm run dev` (compile for development) OR `npm run build` (compile for production)
 
 ## Login Credentials
 
