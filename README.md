@@ -1,5 +1,5 @@
 ## How to install
-1. clone the project
+1. clone the project `git clone https://github.com/kyleexkyle/contactlist.git`
 2. `composer install`
 3. `cp .env.example .env`
 4. `php artisan key:generate`
